@@ -1,0 +1,13 @@
+D:\C#\Maze Solver\Maze Solver\bin\Debug\Maze Solver.exe.config
+D:\C#\Maze Solver\Maze Solver\bin\Debug\Maze Solver.exe
+D:\C#\Maze Solver\Maze Solver\bin\Debug\Maze Solver.pdb
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze Solver.csprojResolveAssemblyReference.cache
+D:\C#\Maze Solver\Maze Solver\obj\Debug\MainWindow.baml
+D:\C#\Maze Solver\Maze Solver\obj\Debug\MainWindow.g.cs
+D:\C#\Maze Solver\Maze Solver\obj\Debug\App.g.cs
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze Solver_MarkupCompile.cache
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze Solver.g.resources
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze_Solver.Properties.Resources.resources
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze Solver.csproj.GenerateResource.Cache
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze Solver.exe
+D:\C#\Maze Solver\Maze Solver\obj\Debug\Maze Solver.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Class="Maze_Solver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="File_Chooser" Content="Choose File" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="91" Click="File_Chooser_Click"/>
+        <TextBox x:Name="FilePathTextBox" HorizontalAlignment="Left" Height="23" Margin="10,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" IsEnabled="False" SpellCheck.IsEnabled="False" IsReadOnly="True"/>
+        <Button x:Name="ImportButton" Content="Import" HorizontalAlignment="Left" Margin="106,35,0,0" VerticalAlignment="Top" Width="142" RenderTransformOrigin="0.6,0.05" Click="ImportButton_Click"/>
+        <TextBox x:Name="LogView" HorizontalAlignment="Left" Height="302" Margin="253,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" IsReadOnly="True"/>
+
+    </Grid>
+</Window>
